@@ -1,5 +1,5 @@
 # Computer_Sciene_MS
-Self study masters degree
+Self study Master's degree in Computer Science
 
 ### Date of enrollment 
 01.06.24

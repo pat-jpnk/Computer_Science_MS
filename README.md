@@ -1,6 +1,10 @@
 # Computer_Sciene_MS
 Self study masters degree
 
+# Syllabus 
+✔️
+✖️
+
 ## Mathematics 
 
 | Resource | Has tasks | Complete |

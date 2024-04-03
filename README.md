@@ -1,6 +1,13 @@
 # Computer_Sciene_MS
 Self study masters degree
 
+### Date of enrollment 
+01.06.24
+
+### Date of completion
+?????
+___
+
 # Syllabus 
 ✔️
 ✖️
@@ -53,3 +60,8 @@ Self study masters degree
 | TU Delft Automated Software Testing | ✖️ |
 | LPIC - 1 | ✖️ |
 | LPIC - 2 | ✖️ |
+
+## Capstone project
+?????
+
+

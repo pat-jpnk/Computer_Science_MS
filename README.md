@@ -24,6 +24,7 @@ ___
 | --- | --- | --- |
 | Learning Python by Mark Lutz | yes | ✖️ |
 | Grokking Concurrency | no | ✖️ |
+| Programming Rust: Fast, Safe Systems Development | no | ✖️ |
 | Grokking Functional Programming | no | ✖️ |
 
 

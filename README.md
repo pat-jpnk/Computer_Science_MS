@@ -48,8 +48,8 @@ ___
 | C3 | Operating Systems: Three Easy Pieces | yes | ✖️ | C1, C2 |
 
 ## Networks
+| Symbol | Resource | Has tasks | Complete | Depends on |
 | --- | --- | --- | --- | --- |
-| Symbol | Resource | Has tasks | Complete | Depends on | 
 | N1 | Computer Networking: A Top-Down Approach | yes | ✖️ |  |
 | N2 | Distributed Systems by Andrew S. Tanenbaum | no | ✖️ |  |
 

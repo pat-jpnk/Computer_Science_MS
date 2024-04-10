@@ -47,17 +47,18 @@ ___
 | C2 | Computer Systems: A Programmers Perspective | yes | ✖️ | C1, P3 |
 | C3 | Operating Systems: Three Easy Pieces | yes | ✖️ | C1, C2 |
 
-## Networks 
-| Symbol | Resource | Has tasks | Complete | Depends on |
+## Networks
 | --- | --- | --- | --- | --- | --- |
+| Symbol | Resource | Has tasks | Complete | Depends on | |
 | N1 | Computer Networking: A Top-Down Approach | yes | ✖️ |  |
 | N2 | Distributed Systems by Andrew S. Tanenbaum | no | ✖️ |  |
 
 ## External 
 
-| Resource | complete |
+
 | Symbol | Resource | Has tasks | Complete | Depends on |
-| E1 | TU Delft Automated Software Testing | ✖️ |   |
+| --- | --- | --- | --- | --- | 
+| E1 | TU Delft Automated Software Testing | ✖️ |   
 | E2 | LPIC - 1 | ✖️ |   | 
 | E3 | LPIC - 2 | ✖️ | E2 |
 

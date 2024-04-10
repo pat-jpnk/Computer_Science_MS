@@ -15,7 +15,7 @@ ___
 ## Mathematics 
 
 | Resource | Has tasks | Complete | Depends on |
-| --- | --- | --- |
+| --- | --- | --- | --- | 
 | Schaum's Outline of Discrete Mathematics | yes | ✖️ |   |
 
 

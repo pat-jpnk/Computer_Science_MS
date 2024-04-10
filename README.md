@@ -14,54 +14,52 @@ ___
 
 ## Mathematics 
 
-| Resource | Has tasks | Complete | Depends on |
-| --- | --- | --- | --- | 
-| Schaum's Outline of Discrete Mathematics | yes | ✖️ |   |
+| Symbol | Resource | Has tasks | Complete | Depends on |
+| --- | --- | --- | --- | --- | 
+| M1 | Schaum's Outline of Discrete Mathematics | yes | ✖️ |   |
 
 
 ## Programming
 
-| Resource | Has tasks | Complete |
-| --- | --- | --- |
-| Learning Python by Mark Lutz | yes | ✖️ |
-| Grokking Concurrency | no | ✖️ |
-| Programming Rust: Fast, Safe Systems Development | no | ✖️ |
-| Grokking Functional Programming | no | ✖️ |
+| Symbol | Resource | Has tasks | Complete | Depends on |
+| --- | --- | --- | --- | --- | --- |
+| P1 | Learning Python by Mark Lutz | yes | ✖️ |   |
+| P3 | The C programming language | yes | ✖️ |   |
+| P4 | Grokking Concurrency | no | ✖️ |   |
+| p5 | Programming Rust: Fast, Safe Systems Development | no | ✖️ | p4 |
+| p6 | Grokking Functional Programming | no | ✖️ |   |
 
 
 ## Algorithms 
 
-| Resource | Has tasks | Complete |
-| --- | --- | --- |
-| Grokking Algorithms | yes | ✖️ |
-| Algorithms Illuminated | yes | ✖️ |
-| Classic Computer Science Problems | yes | ✖️ |
-
+| Symbol | Resource | Has tasks | Complete | Depends on |
+| --- | --- | --- | --- | --- | --- |
+| A1 | Grokking Algorithms | yes | ✖️ |  |
+| A2 | Grokking Data Strcutures | yes  |
+| A3 | Algorithms Illuminated | yes | ✖️ |  |
+| A4 | Classic Computer Science Problems | yes | ✖️ |  |
 
 ## Computer Systems 
 
-| Resource | Has tasks | Complete |
-| --- | --- | --- |
-| Structured Computer Organization| yes | ✖️ |
-| Computer Systems: A Programmers Perspective | yes | ✖️ |
-| Operating Systems: Three Easy Pieces | yes | ✖️ |
-
+| Symbol | Resource | Has tasks | Complete | Depends on |
+| --- | --- | --- | --- | --- | --- |
+| C1 | Structured Computer Organization| yes | ✖️ |  |
+| C2 | Computer Systems: A Programmers Perspective | yes | ✖️ | C1, P3 |
+| C3 | Operating Systems: Three Easy Pieces | yes | ✖️ | C1, C2 |
 
 ## Networks 
+| Symbol | Resource | Has tasks | Complete | Depends on |
+| --- | --- | --- | --- | --- | --- |
+| N1 | Computer Networking: A Top-Down Approach | yes | ✖️ |  |
+| N2 | Distributed Systems by Andrew S. Tanenbaum | no | ✖️ |  |
 
-| Resource | Has tasks | Complete |
-| --- | --- | --- |
-| Computer Networking: A Top-Down Approach | yes | ✖️ |
-|  Distributed Systems by Andrew S. Tanenbaum | no | ✖️ |
-
-## Practicals 
-
+## External 
 
 | Resource | complete |
-| --- | --- |
-| TU Delft Automated Software Testing | ✖️ |
-| LPIC - 1 | ✖️ |
-| LPIC - 2 | ✖️ |
+| Symbol | Resource | Has tasks | Complete | Depends on |
+| E1 | TU Delft Automated Software Testing | ✖️ |   |
+| E2 | LPIC - 1 | ✖️ |   | 
+| E3 | LPIC - 2 | ✖️ | E2 |
 
 ## Capstone project
 ?????

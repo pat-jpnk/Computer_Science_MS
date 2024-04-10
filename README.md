@@ -22,7 +22,7 @@ ___
 ## Programming
 
 | Symbol | Resource | Has tasks | Complete | Depends on |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | P1 | Learning Python by Mark Lutz | yes | ✖️ |   |
 | P3 | The C programming language | yes | ✖️ |   |
 | P4 | Grokking Concurrency | no | ✖️ |   |

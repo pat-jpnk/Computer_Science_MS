@@ -32,7 +32,7 @@ ___
 
 ## Algorithms 
 
-| Symbol | Resource | Has tasks | Complete | Depends on |
+| Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |
 | A1 | Grokking Algorithms | yes | ✖️ |  |
 | A2 | Grokking Data Structures | yes  | |
@@ -41,22 +41,22 @@ ___
 
 ## Computer Systems 
 
-| Symbol | Resource | Has tasks | Complete | Depends on |
+| Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |
 | C1 | Structured Computer Organization| yes | ✖️ |  |
 | C2 | Computer Systems: A Programmers Perspective | yes | ✖️ | C1, P3 |
 | C3 | Operating Systems: Three Easy Pieces | yes | ✖️ | C1, C2 |
 
 ## Networks
-| Symbol | Resource | Has tasks | Complete | Depends on |
+| Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |
-| N1 | Computer Networking: A Top-Down Approach | yes | ✖️ | C2 |
+| N1 | Computer Networking: A Top-Down Approach | yes | ✖️ |  |
 | N2 | Distributed Systems by Andrew S. Tanenbaum | no | ✖️ | N1 |
 
 ## External 
 
 
-| Symbol | Resource | Has tasks | Complete | Depends on |
+| Symbol | Resource | Has tasks | Complete | Depends on
 | --- | --- | --- | --- | --- | 
 | E1 | TU Delft Automated Software Testing | yes | ✖️ |
 | E2 | LPIC - 1 | yes |    |

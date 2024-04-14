@@ -51,13 +51,13 @@ ___
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |--- |
 | N1 | Computer Networking: A Top-Down Approach | yes | ✖️ |  |  |
-| N2 | Distributed Systems by Andrew S. Tanenbaum | no | ✖️ | N1 |  |
+| N2 | Distributed Systems by Andrew S. Tanenbaum | no | ✖️ | N1 | ✖️ |
 
 ## External 
 
 
 | Symbol | Resource | Has tasks | Complete | Depends on |
-| --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- |
 | E1 | TU Delft Automated Software Testing | yes | ✖️ |
 | E2 | LPIC - 1 | yes |    |
 | E3 | LPIC - 2 | yes|  | E2 |

@@ -30,7 +30,7 @@ ___
 | P6 | Grokking Functional Programming | no | ✖️ |   | ✖️ |
 
 
-## Algorithms 
+## Algorithms and Data Structures
 
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |--- |
@@ -47,14 +47,14 @@ ___
 | C2 | Computer Systems: A Programmers Perspective | yes | ✖️ | C1, P3 |  |
 | C3 | Operating Systems: Three Easy Pieces | yes | ✖️ | C1, C2 |  |
 
-## Networks
+## Networks and Distributed Systems
+
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |--- |
 | N1 | Computer Networking: A Top-Down Approach | yes | ✖️ |  |  |
 | N2 | Distributed Systems by Andrew S. Tanenbaum | no | ✖️ | N1 | ✖️ |
 
 ## External 
-
 
 | Symbol | Resource | Has tasks | Complete | Depends on |
 | --- | --- | --- | --- | --- |

@@ -35,9 +35,9 @@ ___
 | Symbol | Resource | Has tasks | Complete | Depends on |
 | --- | --- | --- | --- | --- |
 | A1 | Grokking Algorithms | yes | ✖️ |  |
-| A2 | Grokking Data Strcutures | yes  | |
-| A3 | Algorithms Illuminated | yes | ✖️ |  |
-| A4 | Classic Computer Science Problems | yes | ✖️ |  |
+| A2 | Grokking Data Structures | yes  | |
+| A3 | Algorithms Illuminated | yes | ✖️ | A1, A2 |
+| A4 | Classic Computer Science Problems | yes | ✖️ | A3 |
 
 ## Computer Systems 
 
@@ -50,15 +50,15 @@ ___
 ## Networks
 | Symbol | Resource | Has tasks | Complete | Depends on |
 | --- | --- | --- | --- | --- |
-| N1 | Computer Networking: A Top-Down Approach | yes | ✖️ |  |
-| N2 | Distributed Systems by Andrew S. Tanenbaum | no | c |  |
+| N1 | Computer Networking: A Top-Down Approach | yes | ✖️ | C2 |
+| N2 | Distributed Systems by Andrew S. Tanenbaum | no | ✖️ | N1 |
 
 ## External 
 
 
 | Symbol | Resource | Has tasks | Complete | Depends on |
 | --- | --- | --- | --- | --- | 
-| E1 | TU Delft Automated Software Testing | yes | v |
+| E1 | TU Delft Automated Software Testing | yes | ✖️ |
 | E2 | LPIC - 1 | yes |    |
 | E3 | LPIC - 2 | yes|  | E2 |
 

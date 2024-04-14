@@ -25,9 +25,9 @@ ___
 | --- | --- | --- | --- | --- | --- |
 | P1 | Learning Python by Mark Lutz | yes | ✖️ |   |  |   
 | P3 | The C programming language | yes | ✖️ |   |  |   
-| P4 | Grokking Concurrency | no | ✖️ |   |  |
-| P5 | Programming Rust: Fast, Safe Systems Development | no | ✖️ | P4 |  |
-| P6 | Grokking Functional Programming | no | ✖️ |   |  |
+| P4 | Grokking Concurrency | no | ✖️ |   | ✖️ |
+| P5 | Programming Rust: Fast, Safe Systems Development | no | ✖️ | P4 | ✖️ |
+| P6 | Grokking Functional Programming | no | ✖️ |   | ✖️ |
 
 
 ## Algorithms 

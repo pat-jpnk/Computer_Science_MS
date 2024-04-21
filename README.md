@@ -48,7 +48,7 @@ ___
 | C4 | Computer Systems: A Programmers Perspective | yes | ✖️ | C3, P3 |  |
 | C5 | Operating Systems: Three Easy Pieces | yes | ✖️ | C3, C4 |  |
 
-## Networks and Distributed Systems
+## Computer Networks
 
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |--- |

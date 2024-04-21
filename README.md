@@ -1,5 +1,4 @@
-# Computer_Sciene_MS
-Self study Master's degree in Computer Science - University of Resolve
+# Self study Master's degree in Computer Science - University of Resolve
 
 ### Date of enrollment 
 01.06.24

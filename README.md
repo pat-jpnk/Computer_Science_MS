@@ -58,9 +58,9 @@ ___
 
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- | --- |
-| S1 | TU Delft Automated Software Testing | yes |  |
+| S1 | TU Delft Automated Software Testing | yes | ✖️ |
 | S2 | API Design Patterns | yes | ✖️ | |
-| S3 | Distributed Systems by Andrew S. Tanenbaum | no  | ✖️ |  |  |
+| S3 | Distributed Systems by Andrew S. Tanenbaum | no  | ✖️ |  | ✖️ |
 | S4 | Grokking Streaming Systems | yes | ✖️ |  |  |
 
 

@@ -62,7 +62,10 @@ ___
 | E2 | LPIC - 1 | yes |    |
 | E3 | LPIC - 2 | yes|  | E2 |
 
-## Capstone project
-?????
+## Minor
+
+| Symbol | Resource | Has tasks | Complete |
+| --- | --- | --- | --- |
+| MN1 | CNaVT | yes | ✖️ |
 
 

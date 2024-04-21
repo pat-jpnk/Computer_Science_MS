@@ -54,13 +54,20 @@ ___
 | N1 | Computer Networking: A Top-Down Approach | yes | ✖️ |  |  |
 | N2 | Distributed Systems by Andrew S. Tanenbaum | no | ✖️ | N1 | ✖️ |
 
-## External 
+## Software
 
 | Symbol | Resource | Has tasks | Complete | Depends on |
 | --- | --- | --- | --- | --- |
-| E1 | TU Delft Automated Software Testing | yes | ✖️ |
+| S1 | TU Delft Automated Software Testing | yes | ✖️ |
+
+
+## Linux 
+| Symbol | Resource | Has tasks | Complete | Depends on |
+| --- | --- | --- | --- | --- |
+| E1 | How Linux works by Brian Ward | yes |    |
 | E2 | LPIC - 1 | yes |    |
 | E3 | LPIC - 2 | yes|  | E2 |
+
 
 ## Minor
 

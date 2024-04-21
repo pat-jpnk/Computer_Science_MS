@@ -34,7 +34,7 @@ ___
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |--- |
 | A1 | Grokking Algorithms | yes | ✖️ |  |  |
-| A2 | Grokking Data Structures | yes  | |  |
+| A2 | Grokking Data Structures | yes  | ✖️ |  |
 | A3 | Algorithms Illuminated | yes | ✖️ | A1, A2 |  |
 | A4 | Classic Computer Science Problems | yes | ✖️ | A3 |  |
 

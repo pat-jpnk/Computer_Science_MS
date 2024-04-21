@@ -16,7 +16,7 @@ ___
 
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- | --- | 
-| M1 | Schaum's Outline of Discrete Mathematics | yes | ✖️ |   | |   
+| M1 | Schaum's Outline of Discrete Mathematics | yes | ✖️ |  | |  
 
 
 ## Programming
@@ -43,30 +43,34 @@ ___
 
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |--- |
-| C1 | Structured Computer Organization| yes | ✖️ |  |  |
-| C2 | Computer Systems: A Programmers Perspective | yes | ✖️ | C1, P3 |  |
-| C3 | Operating Systems: Three Easy Pieces | yes | ✖️ | C1, C2 |  |
+| C1 | How Computers Really Work | yes | ✖️ |  |  |
+| C2 | Computer Architecture by Charles Fox | yes | ✖️ |  |  |
+| C3 | Structured Computer Organization| yes | ✖️ |  |  |
+| C4 | Computer Systems: A Programmers Perspective | yes | ✖️ | C3, P3 |  |
+| C5 | Operating Systems: Three Easy Pieces | yes | ✖️ | C3, C4 |  |
 
 ## Networks and Distributed Systems
 
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |--- |
 | N1 | Computer Networking: A Top-Down Approach | yes | ✖️ |  |  |
-| N2 | Distributed Systems by Andrew S. Tanenbaum | no | ✖️ | N1 | ✖️ |
 
-## Software
+## Software Systems 
 
 | Symbol | Resource | Has tasks | Complete | Depends on |
 | --- | --- | --- | --- | --- |
 | S1 | TU Delft Automated Software Testing | yes | ✖️ |
+| S2 | API Design Patterns | no | ✖️ | |
+| S3 | Distributed Systems by Andrew S. Tanenbaum | no  | ✖️ |  | ✖️ |
+| S4 | Grokking Streaming Systems | yes | ✖️ |  | ✖️ |
 
 
 ## Linux 
 | Symbol | Resource | Has tasks | Complete | Depends on |
 | --- | --- | --- | --- | --- |
-| E1 | How Linux works by Brian Ward | yes |    |
-| E2 | LPIC - 1 | yes |    |
-| E3 | LPIC - 2 | yes|  | E2 |
+| E1 | How Linux works by Brian Ward | no | ✖️ |
+| E2 | LPIC - 1 | yes | ✖️ |
+| E3 | LPIC - 2 | yes | ✖️ | E2 |
 
 
 ## Minor

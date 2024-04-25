@@ -64,7 +64,7 @@ ___
 | S2 | Secure Software Development Fundamentals | yes | ✖️ |
 | S3 | API Design Patterns | yes | ✖️ | |
 | S4 | Distributed Systems by Andrew S. Tanenbaum | no  | ✖️ |  | ✖️ |
-| S5 | System Design (Alex Xu / Grokking) | no | ✖️ |  |  |
+| S5 | System Design (Alex Xu / Grokking) | no | ✖️ |  | ✖️ |
 | S6 | Grokking Streaming Systems | yes | ✖️ |  |  |
 
 ## Linux 
@@ -80,7 +80,7 @@ ___
 | Symbol | Resource | Has tasks | Complete | Depends on | Link | 
 | --- | --- | --- | --- | --- | --- |
 | CR1 | StanfordOnline: Compilers | yes | ✖️ |
-| CR2 | CPython Internals | yes | ✖️ | CR1 |
+| CR2 | CPython Internals | no | ✖️ | CR1 | ✖️ |
 
 
 ## Minor

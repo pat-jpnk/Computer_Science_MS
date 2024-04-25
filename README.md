@@ -69,9 +69,9 @@ ___
 
 ## Linux 
 
-| Symbol | Resource | Has tasks | Complete | Depends on |
-| --- | --- | --- | --- | --- |
-| E1 | How Linux works by Brian Ward | no | ✖️ |
+| Symbol | Resource | Has tasks | Complete | Depends on | Link |
+| --- | --- | --- | --- | --- | --- |
+| E1 | How Linux works by Brian Ward | no | ✖️ |  | ✖️ |
 | E2 | LPIC - 1 | yes | ✖️ |
 | E3 | LPIC - 2 | yes | ✖️ | E2 |
 

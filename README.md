@@ -16,6 +16,7 @@ ___
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- | --- | 
 | M1 | Schaum's Outline of Discrete Mathematics | yes | ✖️ |  |  |  
+| M2 | Concrete Mathematics - A Foundation For Computer Science | yes | ✖️ |  |  |  
 
 
 ## Programming

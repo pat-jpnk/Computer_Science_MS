@@ -65,11 +65,18 @@ ___
 
 
 ## Linux 
+
 | Symbol | Resource | Has tasks | Complete | Depends on |
 | --- | --- | --- | --- | --- |
 | E1 | How Linux works by Brian Ward | no | ✖️ |
 | E2 | LPIC - 1 | yes | ✖️ |
 | E3 | LPIC - 2 | yes | ✖️ | E2 |
+
+## Compilers
+
+| Symbol | Resource | Has tasks | Complete | Depends on | Link | 
+| --- | --- | --- | --- | --- | --- |
+| CR1 | StanfordOnline: Compilers | yes | ✖️ |
 
 
 ## Minor

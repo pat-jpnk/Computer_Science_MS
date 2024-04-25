@@ -59,10 +59,11 @@ ___
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- | --- |
 | S1 | TU Delft Automated Software Testing | yes | ✖️ |
-| S2 | API Design Patterns | yes | ✖️ | |
-| S3 | Distributed Systems by Andrew S. Tanenbaum | no  | ✖️ |  | ✖️ |
-| S4 | Grokking Streaming Systems | yes | ✖️ |  |  |
-
+| S2 | Secure Software Development Fundamentals | yes | ✖️ |
+| S3 | API Design Patterns | yes | ✖️ | |
+| S4 | Distributed Systems by Andrew S. Tanenbaum | no  | ✖️ |  | ✖️ |
+| S5 | System Design (Alex Xu / Grokking) | no | ✖️ |  |  |
+| S6 | Grokking Streaming Systems | yes | ✖️ |  |  |
 
 ## Linux 
 

@@ -27,6 +27,7 @@ ___
 | P3 | The C programming language | yes | ✖️ |   |  |   
 | P4 | Grokking Concurrency | no | ✖️ |   | ✖️ |
 | P5 | Programming Rust: Fast, Safe Systems Development | no | ✖️ | P4 | ✖️ |
+| P6 | The Go Progamming language | yes | ✖️ |   | ✖️ |
 | P6 | Grokking Functional Programming | no | ✖️ |   | ✖️ |
 
 
@@ -79,6 +80,7 @@ ___
 | Symbol | Resource | Has tasks | Complete | Depends on | Link | 
 | --- | --- | --- | --- | --- | --- |
 | CR1 | StanfordOnline: Compilers | yes | ✖️ |
+| CR2 | CPython Internals | yes | ✖️ | CR1 |
 
 
 ## Minor

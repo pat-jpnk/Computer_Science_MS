@@ -1,7 +1,7 @@
 # University of Resolve - Master's degree in Computer Science
 
 ### Date of enrollment 
-01.06.24
+01.07.24
 
 ### Date of completion
 

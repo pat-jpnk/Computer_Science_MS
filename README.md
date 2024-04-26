@@ -41,7 +41,7 @@ ___
 | C1 | How Computers Really Work | yes | ✖️ |  |  |
 | C2 | Computer Architecture by Charles Fox | yes | ✖️ |  |  |
 | C3 | Structured Computer Organization| yes | ✖️ |  |  |
-| C4 | Computer Systems: A Programmers Perspective | yes | ✖️ | C3, P3 |  |
+| C4 | Computer Systems: A Programmers Perspective | yes | ✖️ | C3 |  |
 | C5 | Operating Systems: Three Easy Pieces | yes | ✖️ | C3, C4 |  |
 
 ## Computer Networks

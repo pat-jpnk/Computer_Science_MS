@@ -1,6 +1,6 @@
 # University of Resolve - Master's degree in Computer Science
 
-![alt text](https://github.com/pat-jpnk/Computer_Science_MS/blob/main/university.jpg?raw=true)
+![graduation cap](https://github.com/pat-jpnk/Computer_Science_MS/blob/main/university.png)
 
 ### Date of enrollment 
 01.07.24

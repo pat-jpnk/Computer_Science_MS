@@ -4,7 +4,7 @@
 01.06.24
 
 ### Date of completion
-?????
+
 ___
 
 # Syllabus 

@@ -79,8 +79,9 @@ ___
 
 | Symbol | Resource | Has tasks | Complete | Depends on | Link | 
 | --- | --- | --- | --- | --- | --- |
-| CR1 | StanfordOnline: Compilers | yes | ✖️ |
-| CR2 | CPython Internals | no | ✖️ | CR1 | ✖️ |
+| CR1 | C++ Crash Course - A Fast paced introduction | yes | ✖️ |
+| CR2 | StanfordOnline: Compilers | yes | ✖️ |
+| CR2 | CPython Internals | no | ✖️ | CR2 | ✖️ |
 
 
 ## Minor

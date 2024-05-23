@@ -55,6 +55,7 @@ ___
 | S1 | TU Delft Automated Software Testing | yes | ✖️ |
 | S2 | Secure Software Development Fundamentals | yes | ✖️ |
 | S3 | API Design Patterns | yes | ✖️ | |
+| S4 | API Security in Action | yes | ✖️ | |
 | S5 | System Design (Alex Xu Volume 1 and 2)| no | ✖️ |  | ✖️ |
 
 ## Distributed Systems

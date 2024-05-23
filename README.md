@@ -85,8 +85,6 @@ ___
 
 # Associated Projects
 
-___
-
 
 
 

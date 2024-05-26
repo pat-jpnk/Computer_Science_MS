@@ -30,8 +30,8 @@ ___
 ## Algorithms and Data Structures
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |--- |
-| A1 | Grokking Algorithms | yes | ✖️ |  |  |
-| A2 | Grokking Data Structures | yes  | ✖️ |  |
+| A1 | Grokking Data Structures | yes  | ✖️ |  |
+| A2 | Grokking Algorithms | yes | ✖️ |  |  |
 | A3 | Algorithms Illuminated | yes | ✖️ | A1, A2 |  |
 | A4 | Classic Computer Science Problems | yes | ✖️ | A3 |  |
 
@@ -63,7 +63,7 @@ ___
 | --- | --- | --- | --- | --- | --- |
 | D1 | Distributed Systems by Andrew S. Tanenbaum | no  | ✖️ |  | ✖️ |
 | D2 | Designing Data-Intensive Applications | no  | ✖️ |  | ✖️ |
-| D3 | Grokking Streaming Systems | yes | ✖️ |  |  |
+| D3 | Grokking Streaming Systems | yes | ✖️ |  |  1
 
 ## Linux 
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |

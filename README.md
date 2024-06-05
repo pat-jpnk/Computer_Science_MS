@@ -63,7 +63,7 @@ ___
 | --- | --- | --- | --- | --- | --- |
 | D1 | Distributed Systems by Andrew S. Tanenbaum | no  | ✖️ |  | ✖️ |
 | D2 | Designing Data-Intensive Applications | no  | ✖️ |  | ✖️ |
-| D3 | Grokking Streaming Systems | yes | ✖️ |  |  1
+| D3 | Grokking Streaming Systems | yes | ✖️ |  |  
 
 ## Linux 
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |

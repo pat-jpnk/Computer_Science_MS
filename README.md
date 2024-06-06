@@ -39,10 +39,11 @@ ___
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |--- |
 | C1 | How Computers Really Work | yes | ✖️ |  |  |
-| C2 | Computer Architecture by Charles Fox | yes | ✖️ |  |  |
-| C3 | Structured Computer Organization| yes | ✖️ |  |  |
+| C2 | Computer Architecture by Charles Fox | yes | ✖️ | C1  |  |
+| C3 | Structured Computer Organization| yes | ✖️ | C1 |  |
 | C4 | Computer Systems: A Programmers Perspective | yes | ✖️ | C3 |  |
 | C5 | Operating Systems: Three Easy Pieces | yes | ✖️ | C3, C4 |  |
+| C6 | Operating Systems: Principles and Practice | yes | ✖️ | C3, C4 |  |
 
 ## Computer Networks
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |

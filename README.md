@@ -13,8 +13,7 @@ ___
 ✔️
 ✖️
 
-## Mathematics 
-
+## Mathematics
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- | --- | 
 | M1 | Schaum's Outline of Discrete Mathematics | yes | ✖️ |  |  |  
@@ -50,7 +49,7 @@ ___
 | --- | --- | --- | --- | --- |--- |
 | N1 | Computer Networking: A Top-Down Approach | yes | ✖️ |  |  |
 
-## Software Systems 
+## Software Development 
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- | --- |
 | S1 | TU Delft Automated Software Testing | yes | ✖️ |
@@ -58,6 +57,12 @@ ___
 | S3 | API Design Patterns | yes | ✖️ | |
 | S4 | API Security in Action | yes | ✖️ | | ✖️ |
 | S5 | System Design (Alex Xu Volume 1 and 2)| no | ✖️ |  | ✖️ |
+
+## Systems Analysis
+| Symbol | Resource | Has tasks | Complete | Depends on | Link |
+| --- | --- | --- | --- | --- | --- |
+| SA1 | Systems Performance - Enterprise and the Cloud | yes | ✖️ |
+| SA2 | Understanding Software Dynamics | yes | ✖️ |
 
 ## Distributed Systems
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |

@@ -48,6 +48,7 @@ ___
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- |--- |
 | N1 | Computer Networking: A Top-Down Approach | yes | ✖️ |  |  |
+| N2 | HTTP: The definite guide | no | ✖️ |  | ✖️ |
 
 ## Software Development 
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |

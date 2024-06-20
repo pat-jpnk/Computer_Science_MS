@@ -76,9 +76,8 @@ ___
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- | --- |
 | L1 | How Linux works by Brian Ward | no | ✖️ |  | ✖️ |
-| L2 | LPIC - 1 | yes | ✖️ |
-| L3 | LPIC - 2 | yes | ✖️ | E2 |
-
+| L2 | LPIC - 1 | yes | ✖️ | | L1 |
+| L3 | LPIC - 2 | yes | ✖️ | | L2 | 
 ## Compilers
 | Symbol | Resource | Has tasks | Complete | Depends on | Link | 
 | --- | --- | --- | --- | --- | --- |

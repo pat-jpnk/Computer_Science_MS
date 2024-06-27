@@ -43,6 +43,7 @@ ___
 | C4 | Computer Systems: A Programmers Perspective | yes | ✖️ | C3 |  |
 | C5 | Operating Systems: Three Easy Pieces | yes | ✖️ | C3, C4 |  |
 | C6 | Operating Systems: Principles and Practice | yes | ✖️ | C3, C4 |  |
+| C7 | The Linux Programming Interface: A Linux and UNIX System Programming Handbook | yes | ✖️ | C5, C6 |  | 
 
 ## Computer Networks
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |

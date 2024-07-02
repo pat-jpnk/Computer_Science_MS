@@ -5,6 +5,9 @@
 ### Date of enrollment 
 01.07.24
 
+### Active Module
+S1 - TU Delft Automated Software Testing
+
 ### Date of completion
 
 ___

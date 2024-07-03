@@ -80,9 +80,10 @@ ___
 ## Linux 
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- | --- |
-| L1 | How Linux works by Brian Ward | no | ✖️ |  | ✖️ |
-| L2 | LPIC - 1 | yes | ✖️ | | L1 |
-| L3 | LPIC - 2 | yes | ✖️ | | L2 | 
+| L1 | LPIC - 1 | yes | ✖️ | | |
+| L2 | LPIC - 2 | yes | ✖️ | | L2 | 
+| L3 | How Linux works by Brian Ward | no | ✖️ | L2 L3 | ✖️ |
+
 ## Compilers
 | Symbol | Resource | Has tasks | Complete | Depends on | Link | 
 | --- | --- | --- | --- | --- | --- |

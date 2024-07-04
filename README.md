@@ -6,7 +6,7 @@
 01.07.24
 
 ### Active Module
-S1 - TU Delft Automated Software Testing
+L1 - LPIC - 1
 
 ### Date of completion
 

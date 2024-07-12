@@ -69,6 +69,8 @@ ___
 | SA1 | Systems Performance - Enterprise and the Cloud | yes | ✖️ |
 | SA2 | Understanding Software Dynamics | yes | ✖️ |
 | SA3 | Cloud Computing: Theory and Practice | yes | ✖️ |
+| SA4 | BPF Performance Tools  | yes | ✖️ |
+
 
 ## Distributed Systems
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |

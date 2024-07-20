@@ -27,7 +27,7 @@ ___
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
 | --- | --- | --- | --- | --- | --- |
 | P1 | Grokking Concurrency | no | ✖️ |   | ✖️ |
-| P2 | Grokking Functional Programming | no | ✖️ |   | ✖️ |
+| P2 | Grokking Simplicity | yes | ✖️ |   | ✖️ |
 
 ## Algorithms and Data Structures
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |

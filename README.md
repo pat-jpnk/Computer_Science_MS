@@ -89,8 +89,9 @@ ___
 ## Compilers
 | Symbol | Resource | Has tasks | Complete | Depends on | Link | 
 | --- | --- | --- | --- | --- | --- |
-| CR1 | StanfordOnline: Compilers | yes | ✖️ |
-| CR2 | CPython Internals | no | ✖️ | CR2 | ✖️ |
+| CR1 | Crafting Interpreters | yes | ✖️ |
+| CR2 | StanfordOnline: Compilers | yes | ✖️ |
+| CR3 | CPython Internals | no | ✖️ | CR2 | ✖️ |
 
 ## Minor
 | Symbol | Resource | Has tasks | Complete |

@@ -28,6 +28,7 @@ ___
 | --- | --- | --- | --- | --- | --- |
 | P1 | Grokking Concurrency | no | ✖️ |   | ✖️ |
 | P2 | Grokking Simplicity | yes | ✖️ |   | ✖️ |
+| P3 | Parallel and High Performance Computing| yes | ✖️ |   | ✖️ |
 
 ## Algorithms and Data Structures
 | Symbol | Resource | Has tasks | Complete | Depends on | Link |
